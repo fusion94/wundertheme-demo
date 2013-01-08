@@ -1,7 +1,7 @@
 
 ## This is the demo site for the Wundertheme for Octopress
 
-To testdrive this theme head over to the [demo site](http://fusion94.org/wundertheme-demo/)
+To test drive this theme head over to the [demo site](http://fusion94.org/wundertheme-demo/)
 
 ## This theme is under development and might not be usable.
 
