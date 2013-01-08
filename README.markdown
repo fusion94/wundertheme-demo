@@ -1,7 +1,11 @@
 
-# Theme under development -- DO NOT USE
+## This is the demo site for the Wundertheme for Octopress
 
-## Wundertheme Octopress theme
+To testdrive this theme head over to the [demo site](http://fusion94.org/wundertheme-demo/)
+
+## This theme is under development and might not be usable.
+
+## Wundertheme for Octopress
 
 This is an Octopress theme based off the wundertheme on Tumblr.
 
