@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[The Wunder Theme Demo Site]]></title>
-  <link href="http://fusion94.github.com/wundertheme-demo/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Example | The Wunder Theme Demo Site]]></title>
+  <link href="http://fusion94.github.com/wundertheme-demo/blog/categories/example/atom.xml" rel="self"/>
   <link href="http://fusion94.github.com/wundertheme-demo/"/>
   <updated>2013-01-08T09:31:07-08:00</updated>
   <id>http://fusion94.github.com/wundertheme-demo/</id>
