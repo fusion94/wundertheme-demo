@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Example | The Wunder Theme Demo Site]]></title>
   <link href="http://fusion94.github.com/wundertheme-demo/blog/categories/example/atom.xml" rel="self"/>
   <link href="http://fusion94.github.com/wundertheme-demo/"/>
-  <updated>2013-01-12T14:46:15-08:00</updated>
+  <updated>2013-01-12T14:46:43-08:00</updated>
   <id>http://fusion94.github.com/wundertheme-demo/</id>
   <author>
     <name><![CDATA[Wunderbar]]></name>
@@ -51,23 +51,6 @@
   <i class="icon-flag icon-2x pull-left"></i>Font Awesome<br>Version 3.0</a>
 <a class="btn btn-primary" href="#">
   <i class="icon-refresh icon-spin"></i> Synchronizing Content...</a></p>
-
-<p>  <form>
-  <div class="input-prepend"></p>
-
-<pre><code>&lt;span class="add-on"&gt;&lt;i class="icon-envelope"&gt;&lt;/i&gt;&lt;/span&gt;
-&lt;input class="span2" type="text" placeholder="Email address"&gt;
-</code></pre>
-
-<p>  </div>
-  <div class="input-prepend"></p>
-
-<pre><code>&lt;span class="add-on"&gt;&lt;i class="icon-key"&gt;&lt;/i&gt;&lt;/span&gt;
-&lt;input class="span2" type="password" placeholder="Password"&gt;
-</code></pre>
-
-<p>  </div>
-</form></p>
 ]]></content>
   </entry>
   
