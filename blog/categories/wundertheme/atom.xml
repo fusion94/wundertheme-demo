@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Wundertheme | The Wunder Theme Demo Site]]></title>
   <link href="http://fusion94.github.com/wundertheme-demo/blog/categories/wundertheme/atom.xml" rel="self"/>
   <link href="http://fusion94.github.com/wundertheme-demo/"/>
-  <updated>2013-01-12T15:32:49-08:00</updated>
+  <updated>2013-01-12T15:33:59-08:00</updated>
   <id>http://fusion94.github.com/wundertheme-demo/</id>
   <author>
     <name><![CDATA[Wunderbar]]></name>
@@ -12,47 +12,6 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[Font Awesome Demo]]></title>
-    <link href="http://fusion94.github.com/wundertheme-demo/blog/2013/01/12/font-awesome-demo/"/>
-    <updated>2013-01-12T14:14:00-08:00</updated>
-    <id>http://fusion94.github.com/wundertheme-demo/blog/2013/01/12/font-awesome-demo</id>
-    <content type="html"><![CDATA[<p>External link icon:</p>
-
-<p><i class="icon-external-link"></i></p>
-
-<p>Comment icon:</p>
-
-<p><i class="icon-comment"></i></p>
-
-<ul class="icons">
-  <li><i class="icon-ok"></i> Lists</li>
-  <li><i class="icon-ok"></i> Buttons</li>
-  <li><i class="icon-ok"></i> Button groups</li>
-  <li><i class="icon-ok"></i> Navigation</li>
-  <li><i class="icon-ok"></i> Prepended form inputs</li>
-</ul>
-
-
-<p><a class="btn" href="#">
-  <i class="icon-repeat"></i> Reload</a>
-<a class="btn btn-success" href="#">
-  <i class="icon-shopping-cart icon-large"></i> Checkout</a>
-<a class="btn btn-large btn-primary" href="#">
-  <i class="icon-comment"></i> Comment</a>
-<a class="btn btn-small btn-info" href="#">
-  <i class="icon-info-sign"></i> Info</a>
-<a class="btn btn-danger" href="#">
-  <i class="icon-trash icon-large"></i> Delete</a>
-<a class="btn btn-small" href="#">
-  <i class="icon-cog"></i> Settings</a>
-<a class="btn btn-large btn-danger" href="#">
-  <i class="icon-flag icon-2x pull-left"></i>Font Awesome<br>Version 3.0</a>
-<a class="btn btn-primary" href="#">
-  <i class="icon-refresh icon-spin"></i> Synchronizing Content...</a></p>
-]]></content>
-  </entry>
   
   <entry>
     <title type="html"><![CDATA[Font Awesome Demo]]></title>
@@ -1140,6 +1099,26 @@ _   underscore
 <p>Fusce volutpat sodales fermentum. Maecenas interdum dolor id urna ornare sit amet interdum nulla cursus. Proin in odio nec arcu auctor convallis. Nulla porta, sapien at pellentesque sollicitudin, diam ipsum imperdiet tortor, quis rutrum sapien lacus vel dolor. Nunc viverra placerat enim, eget rutrum justo rhoncus porta. Nam in sapien et dui tincidunt facilisis euismod et felis. Duis sit amet risus justo, et gravida lorem.</p>
 
 <p>Vestibulum blandit dictum justo, a facilisis est adipiscing id. Fusce consectetur diam in massa condimentum auctor. In hac habitasse platea dictumst. Integer dapibus enim vitae ligula varius quis dapibus lectus tempus. Cras quis lorem et mauris ultricies tincidunt. Suspendisse in ligula in lacus vulputate feugiat ac ut metus. Vestibulum feugiat lectus a eros vulputate placerat. Vestibulum libero sapien, pulvinar eget ultrices at, placerat eget enim. Integer lobortis arcu sit amet nisl pellentesque in auctor sapien sagittis. Aenean sit amet orci hendrerit ante fermentum blandit vitae id sapien. Donec sed erat elit. Sed non tellus nulla, at pharetra eros. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vivamus nec magna quis diam mollis tempor ac sed diam. Proin et ornare urna. In hac habitasse platea dictumst.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Example Post 3]]></title>
+    <link href="http://fusion94.github.com/wundertheme-demo/blog/2013/01/08/example-post-3/"/>
+    <updated>2013-01-08T09:39:00-08:00</updated>
+    <id>http://fusion94.github.com/wundertheme-demo/blog/2013/01/08/example-post-3</id>
+    <content type="html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec at lorem nisi, vitae aliquam nulla. Nullam tristique, lorem et rutrum pulvinar, ligula sem mollis tellus, nec fringilla turpis eros nec elit. Sed consectetur consectetur metus et eleifend. Morbi sed massa ante. Vivamus sollicitudin consectetur elit, eget lobortis turpis pellentesque a. Donec eleifend venenatis leo ac luctus. Pellentesque vel eros est, nec mattis augue.</p>
+
+<!-- more -->
+
+
+<p>Morbi eu lorem viverra sapien condimentum interdum. Mauris vestibulum quam non mauris fermentum et elementum felis sodales. In sem tellus, fringilla eu rutrum non, tincidunt vel velit. Proin purus sem, rhoncus at tincidunt sit amet, dictum vitae purus. Nunc gravida congue neque vitae rhoncus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed vulputate hendrerit tellus, ac tincidunt odio hendrerit vel. Sed posuere congue lacus et fermentum.</p>
+
+<p>Cras lacinia nunc ac nibh suscipit non euismod leo laoreet. Sed urna dolor, tristique sed porta id, molestie ut mauris. Donec imperdiet tempus varius. Nulla orci orci, faucibus sit amet gravida eget, ullamcorper in tortor. Nunc congue ultrices felis, vitae tincidunt felis ullamcorper in. Morbi ultricies, lorem ut aliquet vulputate, dui tortor cursus massa, eu sollicitudin ligula tortor in metus. In ultrices, nisi id adipiscing vulputate, ligula augue iaculis nibh, ac tristique risus libero nec dui. Aenean condimentum fringilla feugiat.</p>
+
+<p>Cras mattis massa sed quam rutrum posuere. Donec eu pellentesque mauris. Phasellus bibendum mattis libero in dictum. Nulla posuere consectetur rhoncus. Quisque a mattis dui. Aenean pulvinar odio quis erat rhoncus tristique. Vivamus venenatis nulla nec magna tempor accumsan.</p>
+
+<p>Mauris iaculis pulvinar eleifend. Proin ac quam in elit tempus pellentesque. Nunc eu neque nisl. Quisque placerat, nisl in volutpat mattis, tortor dolor luctus lectus, ut rhoncus eros felis consequat nulla. Aliquam erat volutpat. Curabitur vel nisi dolor. Curabitur et nunc vel urna gravida molestie quis eget lorem. Sed ullamcorper ultrices dictum. Ut eu sapien elit, ac placerat elit. Duis auctor, eros vitae scelerisque tincidunt, diam nibh ornare leo, ut tempor lectus erat suscipit justo. Phasellus tincidunt placerat posuere. Sed cursus laoreet arcu, vel molestie massa varius id. Aliquam tortor orci, semper ac venenatis quis, facilisis et ligula. Sed at tortor lorem, vel elementum eros. In vitae vehicula lectus.</p>
 ]]></content>
   </entry>
   

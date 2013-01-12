@@ -4,7 +4,7 @@
   <title><![CDATA[The Wunder Theme Demo Site]]></title>
   <link href="http://fusion94.github.com/wundertheme-demo/atom.xml" rel="self"/>
   <link href="http://fusion94.github.com/wundertheme-demo/"/>
-  <updated>2013-01-12T15:32:49-08:00</updated>
+  <updated>2013-01-12T15:33:59-08:00</updated>
   <id>http://fusion94.github.com/wundertheme-demo/</id>
   <author>
     <name><![CDATA[Wunderbar]]></name>
@@ -51,52 +51,19 @@
   <i class="icon-flag icon-2x pull-left"></i>Font Awesome<br>Version 3.0</a>
 <a class="btn btn-primary" href="#">
   <i class="icon-refresh icon-spin"></i> Synchronizing Content&#8230;</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Font Awesome Demo]]></title>
-    <link href="http://fusion94.github.com/wundertheme-demo/blog/2013/01/12/font-awesome-demo/"/>
-    <updated>2013-01-12T14:14:00-08:00</updated>
-    <id>http://fusion94.github.com/wundertheme-demo/blog/2013/01/12/font-awesome-demo</id>
-    <content type="html"><![CDATA[External link icon:
- 
-<i class="icon-external-link"></i>
- 
-Comment icon:
- 
-<i class="icon-comment"></i>
-
-<ul class="icons">
-  <li><i class="icon-ok"></i> Lists</li>
-  <li><i class="icon-ok"></i> Buttons</li>
-  <li><i class="icon-ok"></i> Button groups</li>
-  <li><i class="icon-ok"></i> Navigation</li>
-  <li><i class="icon-ok"></i> Prepended form inputs</li>
-</ul>
-
-
-<a class="btn" href="#">
-  <i class="icon-repeat"></i> Reload</a>
-<a class="btn btn-success" href="#">
-  <i class="icon-shopping-cart icon-large"></i> Checkout</a>
-<a class="btn btn-large btn-primary" href="#">
-  <i class="icon-comment"></i> Comment</a>
-<a class="btn btn-small btn-info" href="#">
-  <i class="icon-info-sign"></i> Info</a>
-<a class="btn btn-danger" href="#">
-  <i class="icon-trash icon-large"></i> Delete</a>
-<a class="btn btn-small" href="#">
-  <i class="icon-cog"></i> Settings</a>
-<a class="btn btn-large btn-danger" href="#">
-  <i class="icon-flag icon-2x pull-left"></i>Font Awesome<br>Version 3.0</a>
-<a class="btn btn-primary" href="#">
-  <i class="icon-refresh icon-spin"></i> Synchronizing Content&#8230;</a>
 
 <p><i class="icon-camera-retro icon-large"></i> icon-camera-retro</p>
+
+
 <p><i class="icon-camera-retro icon-2x"></i> icon-camera-retro</p>
+
+
 <p><i class="icon-camera-retro icon-3x"></i> icon-camera-retro</p>
-<p><i class="icon-camera-retro icon-4x"></i> icon-camera-retro</p>]]></content>
+
+
+<p><i class="icon-camera-retro icon-4x"></i> icon-camera-retro</p>
+
+]]></content>
   </entry>
   
   <entry>
