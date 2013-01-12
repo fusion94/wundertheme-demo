@@ -1,5 +1,5 @@
 /*
-Syntax error: Invalid CSS after "...wesome-webfont"": expected selector or at-rule, was "@import font-aw..."
+Syntax error: Invalid CSS after "@import ": expected uri, was "font-awesome;"
         on line 3 of /Users/tguntharp/tmp/wundertheme-demo/sass/base/_typography.scss
         from line 4 of /Users/tguntharp/tmp/wundertheme-demo/sass/_base.scss
         from line 8 of /Users/tguntharp/tmp/wundertheme-demo/sass/screen.scss
@@ -12,7 +12,18 @@ Backtrace:
 /Users/tguntharp/tmp/wundertheme-demo/sass/screen.scss:8
 /Users/tguntharp/.rvm/gems/ruby-1.9.3-p362/gems/sass-3.1.20/lib/sass/scss/parser.rb:1010:in `expected'
 /Users/tguntharp/.rvm/gems/ruby-1.9.3-p362/gems/sass-3.1.20/lib/sass/scss/parser.rb:956:in `expected'
-/Users/tguntharp/.rvm/gems/ruby-1.9.3-p362/gems/sass-3.1.20/lib/sass/scss/parser.rb:28:in `parse'
+/Users/tguntharp/.rvm/gems/ruby-1.9.3-p362/gems/sass-3.1.20/lib/sass/scss/parser.rb:951:in `tok!'
+/Users/tguntharp/.rvm/gems/ruby-1.9.3-p362/gems/sass-3.1.20/lib/sass/scss/parser.rb:286:in `import_arg'
+/Users/tguntharp/.rvm/gems/ruby-1.9.3-p362/gems/sass-3.1.20/lib/sass/scss/parser.rb:937:in `expr!'
+/Users/tguntharp/.rvm/gems/ruby-1.9.3-p362/gems/sass-3.1.20/lib/sass/scss/parser.rb:278:in `block in import_directive'
+/Users/tguntharp/.rvm/gems/ruby-1.9.3-p362/gems/sass-3.1.20/lib/sass/scss/parser.rb:277:in `loop'
+/Users/tguntharp/.rvm/gems/ruby-1.9.3-p362/gems/sass-3.1.20/lib/sass/scss/parser.rb:277:in `import_directive'
+/Users/tguntharp/.rvm/gems/ruby-1.9.3-p362/gems/sass-3.1.20/lib/sass/scss/parser.rb:153:in `special_directive'
+/Users/tguntharp/.rvm/gems/ruby-1.9.3-p362/gems/sass-3.1.20/lib/sass/scss/parser.rb:126:in `directive'
+/Users/tguntharp/.rvm/gems/ruby-1.9.3-p362/gems/sass-3.1.20/lib/sass/scss/parser.rb:480:in `block_child'
+/Users/tguntharp/.rvm/gems/ruby-1.9.3-p362/gems/sass-3.1.20/lib/sass/scss/parser.rb:473:in `block_contents'
+/Users/tguntharp/.rvm/gems/ruby-1.9.3-p362/gems/sass-3.1.20/lib/sass/scss/parser.rb:58:in `stylesheet'
+/Users/tguntharp/.rvm/gems/ruby-1.9.3-p362/gems/sass-3.1.20/lib/sass/scss/parser.rb:27:in `parse'
 /Users/tguntharp/.rvm/gems/ruby-1.9.3-p362/gems/sass-3.1.20/lib/sass/engine.rb:327:in `_to_tree'
 /Users/tguntharp/.rvm/gems/ruby-1.9.3-p362/gems/sass-3.1.20/lib/sass/engine.rb:259:in `to_tree'
 /Users/tguntharp/.rvm/gems/ruby-1.9.3-p362/gems/sass-3.1.20/lib/sass/tree/visitors/perform.rb:144:in `visit_import'
@@ -64,4 +75,4 @@ Backtrace:
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Syntax error: Invalid CSS after \"...wesome-webfont\"\": expected selector or at-rule, was \"@import font-aw...\"\A         on line 3 of /Users/tguntharp/tmp/wundertheme-demo/sass/base/_typography.scss\A         from line 4 of /Users/tguntharp/tmp/wundertheme-demo/sass/_base.scss\A         from line 8 of /Users/tguntharp/tmp/wundertheme-demo/sass/screen.scss\A \A 1: /Users/tguntharp/tmp/wundertheme-demo/sass/screen.scss"; }
+  content: "Syntax error: Invalid CSS after \"@import \": expected uri, was \"font-awesome;\"\A         on line 3 of /Users/tguntharp/tmp/wundertheme-demo/sass/base/_typography.scss\A         from line 4 of /Users/tguntharp/tmp/wundertheme-demo/sass/_base.scss\A         from line 8 of /Users/tguntharp/tmp/wundertheme-demo/sass/screen.scss\A \A 1: /Users/tguntharp/tmp/wundertheme-demo/sass/screen.scss"; }
