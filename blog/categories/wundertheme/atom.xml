@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Wundertheme | The Wunder Theme Demo Site]]></title>
   <link href="http://fusion94.github.com/wundertheme-demo/blog/categories/wundertheme/atom.xml" rel="self"/>
   <link href="http://fusion94.github.com/wundertheme-demo/"/>
-  <updated>2013-01-12T14:13:39-08:00</updated>
+  <updated>2013-01-12T14:15:37-08:00</updated>
   <id>http://fusion94.github.com/wundertheme-demo/</id>
   <author>
     <name><![CDATA[Wunderbar]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Font Awesome Demo]]></title>
+    <link href="http://fusion94.github.com/wundertheme-demo/blog/2013/01/12/font-awesome-demo/"/>
+    <updated>2013-01-12T14:14:00-08:00</updated>
+    <id>http://fusion94.github.com/wundertheme-demo/blog/2013/01/12/font-awesome-demo</id>
+    <content type="html"><![CDATA[<p>External link icon:</p>
+
+<p><i class="icon-external-link"></i></p>
+
+<p>Comment icon:</p>
+
+<p><i class="icon-comment"></i></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Example Post Markdown]]></title>
@@ -1066,32 +1081,6 @@ _   underscore
 <p>Cras mattis massa sed quam rutrum posuere. Donec eu pellentesque mauris. Phasellus bibendum mattis libero in dictum. Nulla posuere consectetur rhoncus. Quisque a mattis dui. Aenean pulvinar odio quis erat rhoncus tristique. Vivamus venenatis nulla nec magna tempor accumsan.</p>
 
 <p>Mauris iaculis pulvinar eleifend. Proin ac quam in elit tempus pellentesque. Nunc eu neque nisl. Quisque placerat, nisl in volutpat mattis, tortor dolor luctus lectus, ut rhoncus eros felis consequat nulla. Aliquam erat volutpat. Curabitur vel nisi dolor. Curabitur et nunc vel urna gravida molestie quis eget lorem. Sed ullamcorper ultrices dictum. Ut eu sapien elit, ac placerat elit. Duis auctor, eros vitae scelerisque tincidunt, diam nibh ornare leo, ut tempor lectus erat suscipit justo. Phasellus tincidunt placerat posuere. Sed cursus laoreet arcu, vel molestie massa varius id. Aliquam tortor orci, semper ac venenatis quis, facilisis et ligula. Sed at tortor lorem, vel elementum eros. In vitae vehicula lectus.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Example Post 2]]></title>
-    <link href="http://fusion94.github.com/wundertheme-demo/blog/2013/01/08/example-post-2/"/>
-    <updated>2013-01-08T09:31:00-08:00</updated>
-    <id>http://fusion94.github.com/wundertheme-demo/blog/2013/01/08/example-post-2</id>
-    <content type="html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nibh odio, mattis eu ullamcorper et, volutpat sed leo. Donec tortor dolor, facilisis vitae volutpat quis, hendrerit placerat nulla. Nunc rhoncus risus a lectus commodo vel dapibus risus dignissim. Maecenas porttitor euismod imperdiet. Nulla non neque dolor. Phasellus consequat tincidunt lacinia. Donec laoreet commodo congue. Nullam fringilla justo enim. Nam in massa dignissim risus imperdiet venenatis. Cras in bibendum tortor. Sed pharetra arcu at magna aliquet porta laoreet metus eleifend. Pellentesque euismod gravida rutrum. Maecenas ac ligula sapien. Maecenas ultricies sapien nec diam bibendum in consectetur nisl vehicula. Morbi egestas, risus eu suscipit dapibus, felis dui accumsan odio, eu auctor nulla dolor a est. Cras rutrum ornare nisl, porttitor rutrum massa lacinia ut.</p>
-
-<!-- more -->
-
-
-<p>Aenean pellentesque molestie pulvinar. Aliquam adipiscing, magna a hendrerit semper, arcu dolor ultricies lacus, nec sodales metus urna sed orci. Etiam imperdiet, arcu vitae sagittis aliquam, purus ante rhoncus justo, non gravida nisi eros vel ligula. In sit amet purus sit amet tellus gravida blandit. Donec eu nunc quis turpis lobortis rutrum. Aliquam eu faucibus ipsum. Aenean laoreet arcu in diam feugiat ac suscipit enim suscipit. Praesent sit amet tortor et nisi auctor sagittis. Nulla fermentum, purus non egestas mollis, nisl nibh bibendum ligula, sit amet vehicula urna tellus vel odio.</p>
-
-<p>Maecenas eu orci eget quam faucibus sollicitudin. Aliquam elit ipsum, dignissim at tempor nec, molestie ut dolor. Sed ac ipsum sapien, eu euismod orci. Curabitur eget nulla in lectus bibendum consectetur vel vel lacus. Sed varius accumsan volutpat. Donec aliquet ipsum vel tellus adipiscing ultrices. In hac habitasse platea dictumst. Fusce consectetur justo sed est pellentesque sit amet gravida est ultricies. Vestibulum justo arcu, consequat vitae aliquam condimentum, viverra ut est. Phasellus id lacus non elit dignissim sagittis sed non enim. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec tellus mauris, vehicula id tristique et, consequat in mauris.</p>
-
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed adipiscing iaculis ligula aliquet fermentum. Ut nunc ipsum, volutpat id adipiscing ac, iaculis nec ante. Vestibulum odio ipsum, porta et pulvinar sit amet, aliquet ut ante. In ultrices odio dolor. Integer ligula erat, consequat porta iaculis a, pretium et libero. Suspendisse viverra, sem pharetra sodales ultricies, enim nisl malesuada urna, nec feugiat elit ligula quis mauris.</p>
-
-<p>Cras tempus lobortis justo, id blandit justo ultrices sed. Aliquam id urna nunc, eget lobortis sapien. Ut dignissim, mi nec vulputate adipiscing, dolor nibh malesuada quam, a vulputate augue lorem et sem. Donec eu metus velit. Duis imperdiet porta magna, eget dignissim libero iaculis non. Nullam hendrerit fringilla vulputate. Phasellus volutpat molestie mauris. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac accumsan lorem. Maecenas rhoncus venenatis molestie. Nulla ante orci, luctus eget sodales eu, dignissim non elit. Nullam molestie lectus sit amet lacus ornare fringilla.</p>
-
-<p>Nam sit amet lectus a nibh varius placerat. Quisque ut rhoncus est. Praesent volutpat auctor massa non vulputate. Donec ultrices, orci in aliquet vulputate, orci felis posuere velit, ut sodales lacus risus ut lectus. Proin non diam quis magna congue molestie a quis risus. Morbi nec libero dolor. Praesent sit amet eros lorem, eu consequat elit. Donec est libero, posuere quis auctor id, volutpat a urna. Quisque nec augue id justo hendrerit rutrum vitae commodo odio. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
-
-<p>Fusce volutpat sodales fermentum. Maecenas interdum dolor id urna ornare sit amet interdum nulla cursus. Proin in odio nec arcu auctor convallis. Nulla porta, sapien at pellentesque sollicitudin, diam ipsum imperdiet tortor, quis rutrum sapien lacus vel dolor. Nunc viverra placerat enim, eget rutrum justo rhoncus porta. Nam in sapien et dui tincidunt facilisis euismod et felis. Duis sit amet risus justo, et gravida lorem.</p>
-
-<p>Vestibulum blandit dictum justo, a facilisis est adipiscing id. Fusce consectetur diam in massa condimentum auctor. In hac habitasse platea dictumst. Integer dapibus enim vitae ligula varius quis dapibus lectus tempus. Cras quis lorem et mauris ultricies tincidunt. Suspendisse in ligula in lacus vulputate feugiat ac ut metus. Vestibulum feugiat lectus a eros vulputate placerat. Vestibulum libero sapien, pulvinar eget ultrices at, placerat eget enim. Integer lobortis arcu sit amet nisl pellentesque in auctor sapien sagittis. Aenean sit amet orci hendrerit ante fermentum blandit vitae id sapien. Donec sed erat elit. Sed non tellus nulla, at pharetra eros. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vivamus nec magna quis diam mollis tempor ac sed diam. Proin et ornare urna. In hac habitasse platea dictumst.</p>
 ]]></content>
   </entry>
   
