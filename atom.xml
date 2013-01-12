@@ -4,7 +4,7 @@
   <title><![CDATA[The Wunder Theme Demo Site]]></title>
   <link href="http://fusion94.github.com/wundertheme-demo/atom.xml" rel="self"/>
   <link href="http://fusion94.github.com/wundertheme-demo/"/>
-  <updated>2013-01-12T15:30:46-08:00</updated>
+  <updated>2013-01-12T15:31:56-08:00</updated>
   <id>http://fusion94.github.com/wundertheme-demo/</id>
   <author>
     <name><![CDATA[Wunderbar]]></name>
@@ -18,13 +18,13 @@
     <link href="http://fusion94.github.com/wundertheme-demo/blog/2013/01/12/font-awesome-demo/"/>
     <updated>2013-01-12T14:14:00-08:00</updated>
     <id>http://fusion94.github.com/wundertheme-demo/blog/2013/01/12/font-awesome-demo</id>
-    <content type="html"><![CDATA[External link icon:
- 
-<i class="icon-external-link"></i>
- 
-Comment icon:
- 
-<i class="icon-comment"></i>
+    <content type="html"><![CDATA[<p>External link icon:</p>
+
+<p><i class="icon-external-link"></i></p>
+
+<p>Comment icon:</p>
+
+<p><i class="icon-comment"></i></p>
 
 <ul class="icons">
   <li><i class="icon-ok"></i> Lists</li>
@@ -35,7 +35,7 @@ Comment icon:
 </ul>
 
 
-<a class="btn" href="#">
+<p><a class="btn" href="#">
   <i class="icon-repeat"></i> Reload</a>
 <a class="btn btn-success" href="#">
   <i class="icon-shopping-cart icon-large"></i> Checkout</a>
@@ -50,9 +50,8 @@ Comment icon:
 <a class="btn btn-large btn-danger" href="#">
   <i class="icon-flag icon-2x pull-left"></i>Font Awesome<br>Version 3.0</a>
 <a class="btn btn-primary" href="#">
-  <i class="icon-refresh icon-spin"></i> Synchronizing Content&#8230;</a>
-
- ]]></content>
+  <i class="icon-refresh icon-spin"></i> Synchronizing Content&#8230;</a></p>
+]]></content>
   </entry>
   
   <entry>
