@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Octopress | The Wunder Theme Demo Site]]></title>
   <link href="http://fusion94.github.com/wundertheme-demo/blog/categories/octopress/atom.xml" rel="self"/>
   <link href="http://fusion94.github.com/wundertheme-demo/"/>
-  <updated>2013-01-12T14:44:23-08:00</updated>
+  <updated>2013-01-12T14:44:48-08:00</updated>
   <id>http://fusion94.github.com/wundertheme-demo/</id>
   <author>
     <name><![CDATA[Wunderbar]]></name>
@@ -34,6 +34,23 @@
   <li><i class="icon-ok"></i> Prepended form inputs</li>
 </ul>
 
+
+<p><a class="btn" href="#">
+  <i class="icon-repeat"></i> Reload</a>
+<a class="btn btn-success" href="#">
+  <i class="icon-shopping-cart icon-large"></i> Checkout</a>
+<a class="btn btn-large btn-primary" href="#">
+  <i class="icon-comment"></i> Comment</a>
+<a class="btn btn-small btn-info" href="#">
+  <i class="icon-info-sign"></i> Info</a>
+<a class="btn btn-danger" href="#">
+  <i class="icon-trash icon-large"></i> Delete</a>
+<a class="btn btn-small" href="#">
+  <i class="icon-cog"></i> Settings</a>
+<a class="btn btn-large btn-danger" href="#">
+  <i class="icon-flag icon-2x pull-left"></i>Font Awesome<br>Version 3.0</a>
+<a class="btn btn-primary" href="#">
+  <i class="icon-refresh icon-spin"></i> Synchronizing Content...</a></p>
 ]]></content>
   </entry>
   
