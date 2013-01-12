@@ -1,13 +1,40 @@
 /*
-Syntax error: Invalid CSS after "...wesome-webfont"": expected selector or at-rule, was "@import "font-a..."
-        on line 13 of /Users/tguntharp/tmp/wundertheme-demo/sass/screen.scss
+Syntax error: Invalid CSS after "...wesome-webfont"": expected selector or at-rule, was "@import font-aw..."
+        on line 3 of /Users/tguntharp/tmp/wundertheme-demo/sass/base/_typography.scss
+        from line 4 of /Users/tguntharp/tmp/wundertheme-demo/sass/_base.scss
+        from line 8 of /Users/tguntharp/tmp/wundertheme-demo/sass/screen.scss
+
+1: /Users/tguntharp/tmp/wundertheme-demo/sass/screen.scss
 
 Backtrace:
-/Users/tguntharp/tmp/wundertheme-demo/sass/screen.scss:13
+/Users/tguntharp/tmp/wundertheme-demo/sass/base/_typography.scss:3
+/Users/tguntharp/tmp/wundertheme-demo/sass/_base.scss:4
+/Users/tguntharp/tmp/wundertheme-demo/sass/screen.scss:8
 /Users/tguntharp/.rvm/gems/ruby-1.9.3-p362/gems/sass-3.1.20/lib/sass/scss/parser.rb:1010:in `expected'
 /Users/tguntharp/.rvm/gems/ruby-1.9.3-p362/gems/sass-3.1.20/lib/sass/scss/parser.rb:956:in `expected'
 /Users/tguntharp/.rvm/gems/ruby-1.9.3-p362/gems/sass-3.1.20/lib/sass/scss/parser.rb:28:in `parse'
 /Users/tguntharp/.rvm/gems/ruby-1.9.3-p362/gems/sass-3.1.20/lib/sass/engine.rb:327:in `_to_tree'
+/Users/tguntharp/.rvm/gems/ruby-1.9.3-p362/gems/sass-3.1.20/lib/sass/engine.rb:259:in `to_tree'
+/Users/tguntharp/.rvm/gems/ruby-1.9.3-p362/gems/sass-3.1.20/lib/sass/tree/visitors/perform.rb:144:in `visit_import'
+/Users/tguntharp/.rvm/gems/ruby-1.9.3-p362/gems/sass-3.1.20/lib/sass/tree/visitors/base.rb:37:in `visit'
+/Users/tguntharp/.rvm/gems/ruby-1.9.3-p362/gems/sass-3.1.20/lib/sass/tree/visitors/perform.rb:18:in `visit'
+/Users/tguntharp/.rvm/gems/ruby-1.9.3-p362/gems/sass-3.1.20/lib/sass/tree/visitors/perform.rb:146:in `block in visit_import'
+/Users/tguntharp/.rvm/gems/ruby-1.9.3-p362/gems/sass-3.1.20/lib/sass/tree/visitors/perform.rb:146:in `map'
+/Users/tguntharp/.rvm/gems/ruby-1.9.3-p362/gems/sass-3.1.20/lib/sass/tree/visitors/perform.rb:146:in `visit_import'
+/Users/tguntharp/.rvm/gems/ruby-1.9.3-p362/gems/sass-3.1.20/lib/sass/tree/visitors/base.rb:37:in `visit'
+/Users/tguntharp/.rvm/gems/ruby-1.9.3-p362/gems/sass-3.1.20/lib/sass/tree/visitors/perform.rb:18:in `visit'
+/Users/tguntharp/.rvm/gems/ruby-1.9.3-p362/gems/sass-3.1.20/lib/sass/tree/visitors/base.rb:53:in `block in visit_children'
+/Users/tguntharp/.rvm/gems/ruby-1.9.3-p362/gems/sass-3.1.20/lib/sass/tree/visitors/base.rb:53:in `map'
+/Users/tguntharp/.rvm/gems/ruby-1.9.3-p362/gems/sass-3.1.20/lib/sass/tree/visitors/base.rb:53:in `visit_children'
+/Users/tguntharp/.rvm/gems/ruby-1.9.3-p362/gems/sass-3.1.20/lib/sass/tree/visitors/perform.rb:27:in `block in visit_children'
+/Users/tguntharp/.rvm/gems/ruby-1.9.3-p362/gems/sass-3.1.20/lib/sass/tree/visitors/perform.rb:39:in `with_environment'
+/Users/tguntharp/.rvm/gems/ruby-1.9.3-p362/gems/sass-3.1.20/lib/sass/tree/visitors/perform.rb:26:in `visit_children'
+/Users/tguntharp/.rvm/gems/ruby-1.9.3-p362/gems/sass-3.1.20/lib/sass/tree/visitors/base.rb:37:in `block in visit'
+/Users/tguntharp/.rvm/gems/ruby-1.9.3-p362/gems/sass-3.1.20/lib/sass/tree/visitors/perform.rb:47:in `visit_root'
+/Users/tguntharp/.rvm/gems/ruby-1.9.3-p362/gems/sass-3.1.20/lib/sass/tree/visitors/base.rb:37:in `visit'
+/Users/tguntharp/.rvm/gems/ruby-1.9.3-p362/gems/sass-3.1.20/lib/sass/tree/visitors/perform.rb:18:in `visit'
+/Users/tguntharp/.rvm/gems/ruby-1.9.3-p362/gems/sass-3.1.20/lib/sass/tree/visitors/perform.rb:7:in `visit'
+/Users/tguntharp/.rvm/gems/ruby-1.9.3-p362/gems/sass-3.1.20/lib/sass/tree/root_node.rb:20:in `render'
 /Users/tguntharp/.rvm/gems/ruby-1.9.3-p362/gems/sass-3.1.20/lib/sass/engine.rb:300:in `_render'
 /Users/tguntharp/.rvm/gems/ruby-1.9.3-p362/gems/sass-3.1.20/lib/sass/engine.rb:247:in `render'
 /Users/tguntharp/.rvm/gems/ruby-1.9.3-p362/gems/compass-0.12.2/lib/compass/compiler.rb:140:in `block (2 levels) in compile'
@@ -37,4 +64,4 @@ Backtrace:
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Syntax error: Invalid CSS after \"...wesome-webfont\"\": expected selector or at-rule, was \"@import \"font-a...\"\A         on line 13 of /Users/tguntharp/tmp/wundertheme-demo/sass/screen.scss"; }
+  content: "Syntax error: Invalid CSS after \"...wesome-webfont\"\": expected selector or at-rule, was \"@import font-aw...\"\A         on line 3 of /Users/tguntharp/tmp/wundertheme-demo/sass/base/_typography.scss\A         from line 4 of /Users/tguntharp/tmp/wundertheme-demo/sass/_base.scss\A         from line 8 of /Users/tguntharp/tmp/wundertheme-demo/sass/screen.scss\A \A 1: /Users/tguntharp/tmp/wundertheme-demo/sass/screen.scss"; }
