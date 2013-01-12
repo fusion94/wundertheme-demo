@@ -1,5 +1,5 @@
 /*
-Syntax error: Invalid CSS after "...wesome-webfont"": expected selector or at-rule, was "@import font-aw..."
+Syntax error: Invalid CSS after "...wesome-webfont"": expected selector or at-rule, was "@import "font-a..."
         on line 13 of /Users/tguntharp/tmp/wundertheme-demo/sass/screen.scss
 
 Backtrace:
@@ -37,4 +37,4 @@ Backtrace:
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Syntax error: Invalid CSS after \"...wesome-webfont\"\": expected selector or at-rule, was \"@import font-aw...\"\A         on line 13 of /Users/tguntharp/tmp/wundertheme-demo/sass/screen.scss"; }
+  content: "Syntax error: Invalid CSS after \"...wesome-webfont\"\": expected selector or at-rule, was \"@import \"font-a...\"\A         on line 13 of /Users/tguntharp/tmp/wundertheme-demo/sass/screen.scss"; }
